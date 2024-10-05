@@ -1,42 +1,26 @@
 ﻿using System;
 
-namespace TemperatureConverterLibrary
+namespace operationsApplication
 {
-    public class TemperatureApp
+    class TemperatureApp
     {
-        // Converts Celsius to Fahrenheit
-        public static double CelsiusToFahrenheit(double celsius)
+        static void Main(string[] args)
         {
-            return (celsius * 9 / 5) + 32;
-        }
+            PerformTemperatureConversion converter = new PerformTemperatureConversion();
 
-        // Converts Fahrenheit to Celsius
-        public static double FahrenheitToCelsius(double fahrenheit)
-        {
-            return (fahrenheit - 32) * 5 / 9;
-        }
-    }
+            Console.WriteLine("Temperature Conversion App");
+            Console.WriteLine("Choose the type of conversion:");
+            Console.WriteLine("1. Celsius to Fahrenheit");
+            Console.WriteLine("2. Fahrenheit to Celsius");
 
-    public class PerformTemperatureConversion
-    {
-        // Method to perform conversion without user interaction
-        public string ConvertTemperature(int conversionType, double inputTemperature)
-        {
-            double result = 0;
+            string choice = Console.ReadLine();
+            int conversionType = int.Parse(choice);
 
-            switch (conversionType)
-            {
-                case 1:
-                    result = TemperatureApp.CelsiusToFahrenheit(inputTemperature);
-                    return $"{inputTemperature} °C is {result} °F";
+            Console.WriteLine("Enter temperature:");
+            double inputTemperature = Convert.ToDouble(Console.ReadLine());
 
-                case 2:
-                    result = TemperatureApp.FahrenheitToCelsius(inputTemperature);
-                    return $"{inputTemperature} °F is {result} °C";
-            
-                default:
-                    return false;
-             }
+            string result = converter.ConvertTemperature(conversionType, inputTemperature);
+            Console.WriteLine(result);
         }
     }
 }

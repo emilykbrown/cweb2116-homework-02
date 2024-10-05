@@ -1,16 +1,9 @@
-G:\My Drive\Disabled Tenacity\Projects\Coding\GitHub\cweb2116-homework-02\operationsApplication\bin\Debug\net8.0\operationsApplication.deps.json
-G:\My Drive\Disabled Tenacity\Projects\Coding\GitHub\cweb2116-homework-02\operationsApplication\bin\Debug\net8.0\operationsApplication.dll
-G:\My Drive\Disabled Tenacity\Projects\Coding\GitHub\cweb2116-homework-02\operationsApplication\bin\Debug\net8.0\operationsApplication.pdb
-G:\My Drive\Disabled Tenacity\Projects\Coding\GitHub\cweb2116-homework-02\operationsApplication\bin\Debug\net8.0\operationsLibrary.dll
-G:\My Drive\Disabled Tenacity\Projects\Coding\GitHub\cweb2116-homework-02\operationsApplication\bin\Debug\net8.0\operationsLibrary.pdb
 G:\My Drive\Disabled Tenacity\Projects\Coding\GitHub\cweb2116-homework-02\operationsApplication\obj\Debug\net8.0\operationsApplication.csproj.AssemblyReference.cache
 G:\My Drive\Disabled Tenacity\Projects\Coding\GitHub\cweb2116-homework-02\operationsApplication\obj\Debug\net8.0\operationsApplication.GeneratedMSBuildEditorConfig.editorconfig
 G:\My Drive\Disabled Tenacity\Projects\Coding\GitHub\cweb2116-homework-02\operationsApplication\obj\Debug\net8.0\operationsApplication.AssemblyInfoInputs.cache
 G:\My Drive\Disabled Tenacity\Projects\Coding\GitHub\cweb2116-homework-02\operationsApplication\obj\Debug\net8.0\operationsApplication.AssemblyInfo.cs
 G:\My Drive\Disabled Tenacity\Projects\Coding\GitHub\cweb2116-homework-02\operationsApplication\obj\Debug\net8.0\operationsApplication.csproj.CoreCompileInputs.cache
 G:\My Drive\Disabled Tenacity\Projects\Coding\GitHub\cweb2116-homework-02\operationsApplication\obj\Debug\net8.0\operationsApplication.sourcelink.json
-G:\My Drive\Disabled Tenacity\Projects\Coding\GitHub\cweb2116-homework-02\operationsApplication\obj\Debug\net8.0\operatio.1663E2F9.Up2Date
 G:\My Drive\Disabled Tenacity\Projects\Coding\GitHub\cweb2116-homework-02\operationsApplication\obj\Debug\net8.0\operationsApplication.dll
 G:\My Drive\Disabled Tenacity\Projects\Coding\GitHub\cweb2116-homework-02\operationsApplication\obj\Debug\net8.0\refint\operationsApplication.dll
 G:\My Drive\Disabled Tenacity\Projects\Coding\GitHub\cweb2116-homework-02\operationsApplication\obj\Debug\net8.0\operationsApplication.pdb
-G:\My Drive\Disabled Tenacity\Projects\Coding\GitHub\cweb2116-homework-02\operationsApplication\obj\Debug\net8.0\ref\operationsApplication.dll
